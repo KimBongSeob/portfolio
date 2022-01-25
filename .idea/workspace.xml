@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="957b90ca-92eb-49d0-9bfe-2cd4e1334fb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
